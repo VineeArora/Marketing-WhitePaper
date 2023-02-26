@@ -11,5 +11,5 @@ We hope you find this information useful and that it helps you to achieve the de
 ### Read it, Enjoy it & Implement the techniques 
 
 Here's the link to our whitepaper -
-[https://my.visme.co/view/ojggwgv9-8-key-elements-for-landing-pages-from-psychological-design-perspective]
+https://my.visme.co/view/x4nz7xzy-copy-of-8-key-elements-for-landing-pages-from-psychological-amp-design-perspective
 
