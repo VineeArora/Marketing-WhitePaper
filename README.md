@@ -1,6 +1,4 @@
-# Marketing-WhitePaper
-Key Elements for Landing Pages from Psychological and Design Perspective
-# 8 Key elements for Landing Pages from psychological & design perspective
+## 8 Key elements for Landing Pages from psychological & design perspective
 
 Thank you for your interest in our project! Angeliz and I have created this document as part of our Marketing Analyst course. The main objective of this exercise is to understand and apply the key design concepts and psychological principles in marketing, specifically in designing an effective landing page.
 
